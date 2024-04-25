@@ -3465,10 +3465,8 @@ input, select, textarea {
 
 			#banner {
 				padding: 7em 0 8.25em 0 ;
-				background-size: auto,
- cover;
-				background-position: center,
- center;
+				background-size: auto, 125%;
+				background-position: center;
 				margin-bottom: -6.5em;
 			}
 
